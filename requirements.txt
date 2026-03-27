@@ -1,0 +1,5 @@
+opencv-python~=4.13.0.92
+matplotlib~=3.10.8
+fer~=25.10.3
+pandas~=3.0.1
+scikit-learn~=1.8.0
